@@ -1,1 +1,1 @@
-# project-sem-3
+# semester - projects
